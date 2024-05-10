@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418280804804",
+    "project_id": "danotes-71ec4",
+    "storage_bucket": "danotes-71ec4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418280804804:android:ec0de336574b177e179491",
+        "android_client_info": {
+          "package_name": "com.example.danotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7OQZ8VAqAdp04YZDHoTBXC7fvacC2TCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
